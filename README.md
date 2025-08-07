@@ -27,7 +27,7 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamedessam1799)
-- 📧 mohamed@example.com *(replace with your actual email if you'd like)*
+- 📧 mohamedesam1799@gmail.com
 - 🌍 Cairo, Egypt
 
 ---
